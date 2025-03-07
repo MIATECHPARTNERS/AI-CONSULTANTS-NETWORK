@@ -26,9 +26,11 @@ Please add your business following the structure below:
 - **Contact:** email@example.com
 - **Description:** A brief summary highlighting your unique AI expertise.
 
+
+
+
 ---
 
-*(Example)*
 
 ### AI Solutions Inc.
 - **Website:** [aisolutions.com](https://aisolutions.com)
@@ -36,6 +38,9 @@ Please add your business following the structure below:
 - **Location:** New York, USA
 - **Contact:** contact@aisolutions.com
 - **Description:** Experts in developing custom AI solutions tailored for enterprise needs.
+
+
+### Next Business Goes Here
 
 ---
 
